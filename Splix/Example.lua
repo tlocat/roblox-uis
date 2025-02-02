@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/tlocat/roblox-uis/refs/heads/main/Splix/src'))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/tlocat/roblox-uis/refs/heads/main/Splix/src.lua'))()
 local Window = Library:Window({Name = "bitchbot.crack | ui", Amount = 6})
 local Watermark = Library:Watermark({Name = "watermark | $portal$ | private"})
 local Indicator = Library:Indicator({Name = "New Indicator"})
